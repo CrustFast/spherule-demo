@@ -2,11 +2,11 @@
 
 Welcome to the Spherule Demo repository! This project is a front-end implementation of a conceptual travel agency landing page, brought to life with **Next.js**, **Tailwind CSS**, and animated with **GSAP** for a dynamic and modern user experience.
 
-**[View Live Demo 🚀]([https://spherule-demo.vercel.app/](https://spherule-demo.vercel.app/))**
+**[View Live Demo 🚀](https://spherule-demo.vercel.app/)**
 
 ![Spherule Project Preview](https://i.imgur.com/your-screenshot-url.jpg)
 <img width="1894" height="830" alt="image" src="https://github.com/user-attachments/assets/9e052921-4009-4cb1-a1a0-2588173455da" />
-
+<br/>
 <img width="1903" height="916" alt="image" src="https://github.com/user-attachments/assets/f89a87af-3976-49bf-9fe6-87b825828edb" />
 
 
